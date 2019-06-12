@@ -36,7 +36,7 @@
   width: 100%;
 }
 
-.journal-txt h4 a {
+.blog-txt h4 a {
   display: block;
   font-size: 19px;
   line-height: 24px;
@@ -50,7 +50,7 @@
   transition: all 0.5s ease-in-out 0s;
 }
 
-.journal-txt h4 a:hover {
+.blog-txt h4 a:hover {
   color: #b8a07e;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
@@ -74,7 +74,7 @@
   margin-left: 5px;
 }
 
-/* Commonts */
+/* Comments */
 
 .comments {
   background: #fff;
@@ -130,7 +130,7 @@
   padding-left: 10%;
 }
 
-/* Commonts form */
+/* Comments form */
 
 .cmt {
   background: #fff;

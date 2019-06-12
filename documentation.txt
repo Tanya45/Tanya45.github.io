@@ -1,0 +1,20 @@
+Logic and introduction:
+ This website is designed and deployed under github repository of Tanya@45. It gives almost complete description and information about me.
+  This is totally web based application which will  run inside a web browser.
+ It is designed in Javascript, CSS and Html and jquery files ane used.Project is styled in CSS and Javascipt files are used in used both  in head and body of the project.hyperlinks have been used to  link  the resume and blog to webpage. This Website contains background image,my  image , and images used for portfolio and blog section. In the blog section,the image is hyperlinked to blog webpage. The animation of the header section is built under the tyed.css file.Google fonts are used at multiple places. Contact form is designed in javascript which can also takes input feedback from the viewer. All the required and imported files are stored in library folder. A separate webpage of blog  is created and linked with the index page.and the blog grid part used in the blog section ( for upcoming blogs). Various themes are used which is properly mentioned in the code.
+    Features: it is mobile friendly ,attractive website . It gives almost complete description and information about me. It includes Static  website designing. Easy to use,well formatted.project is well commented and easy to understand. It contains blog,contact form,resume,portfolio,about sections. The navigation bar. Smooth scrolling is done to redirect sections from the navigation bar. The  icons of github,facebook ,twitter,linkedin,instagram are present at the header and the footer part of web page which is hyperlinked with profile Ids of respective sites.
+Tools: 
+We have used  javasrcipt version(ECMAscript5),html 5,and Css.hyperrefrencing is done. Applications used re sublime tesxt and brackets.Google fonts,Bootstrap Css file
+Library Css files(used for styling):ionicons css file,owlcarousel css file, magnific popup,hover.
+Isotope,jquery files.
+Test instruction:
+Install project by opening terminal in project directory.
+Enter command and install project and run. It is web based application so you can  directly use browser  to test .
+Contributors:
+github.com/Tanya@45
+Support:8269146721
+Reference:
+http://www.bootstrapmade.com
+http://www.includehelp.com
+
+
